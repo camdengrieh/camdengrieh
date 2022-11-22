@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @camdengrieh
-- 👀 I’m interested in  building and contributing to open source blockchain projects.
-- 🌱 I’m currently learning Solidity and Go.
+- 👀 Always looking to build and contribute to open source blockchain projects.
+- 🌱 I build with Solidity, learning Rust and Move.
 - 💞️ I’m looking to collaborate on a DeFi protocol.
-- 📫 How to reach me: Twitter - @camdengrieh .
+- 📫 How to reach me: Twitter - @nev3rlack .
 
 <!---
 camdengrieh/camdengrieh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
