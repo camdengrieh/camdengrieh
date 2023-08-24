@@ -2,7 +2,7 @@
 - 👀 Always looking to build and contribute to open source blockchain projects.
 - 🌱 I build with Solidity, learning Rust and Move.
 - 💞️ I’m looking to collaborate on a DeFi protocol.
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/testerlufe/ | Twitter - https://twitter.com/camdenincrypto
+- 📫 How to reach me: Twitter - https://twitter.com/camdenincrypto
 
 <!---
 camdengrieh/camdengrieh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
